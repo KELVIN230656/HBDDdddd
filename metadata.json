@@ -1,0 +1,6 @@
+{
+  "name": "Celebration Hub - Birthday Experience",
+  "description": "An interactive birthday celebration page featuring interactive candles, customizable wishes, surprise unwrapping, and direct destination navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
